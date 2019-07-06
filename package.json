@@ -1,0 +1,25 @@
+{
+  "name": "orbot",
+  "version": "1.0.0",
+  "description": "orstac, but a bot, and discord included.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "mocha": "^6.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orstac/orbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orstac/orbot/issues"
+  },
+  "homepage": "https://github.com/orstac/orbot#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
