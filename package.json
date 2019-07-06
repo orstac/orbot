@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/orstac/orbot#readme",
   "dependencies": {
+    "discord.js": "^11.5.1",
     "mocha": "^6.1.4"
   }
 }
