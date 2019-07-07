@@ -20,7 +20,16 @@
   },
   "homepage": "https://github.com/orstac/orbot#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
     "discord.js": "^11.5.1",
-    "mocha": "^6.1.4"
+    "dotenv": "^8.0.0",
+    "file-system": "^2.2.2",
+    "mocha": "^6.1.4",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "readdirp": "^3.1.1",
+    "sylphy": "^0.4.5",
+    "util": "^0.12.1",
+    "winston": "^3.2.1"
   }
 }
